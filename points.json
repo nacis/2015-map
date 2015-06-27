@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.255110,
+                    44.984714
+                ]
+            },
+            "properties": {
+                "title": "NACIS Night Out @ The Aster Cafe",
+                "description": "125 SE Main St, Minneapolis, MN 55414",
+                "marker-size": "medium",
+                "marker-color": "#f2564c",
+                "marker-symbol": "bar"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.26336570000001,
+                    44.9803577
+                ]
+            },
+            "properties": {
+                "title": "The Depot Renaissance Hotel, Minneapolis",
+                "description": "225 3rd Ave S, Minneapolis, MN 55401",
+                "marker-size": "large",
+                "marker-color": "#2a6496",
+                "marker-symbol": "star"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.221941, 
+                    44.884634
+                ]
+            },
+            "properties": {
+                "title": "MSP International Airport",
+                "description": "225 3rd Ave S, Minneapolis, MN 55401",
+                "marker-size": "medium",
+                "marker-color": "#252b32",
+                "marker-symbol": "airport"
+            }
+        }
+
+    ]
+}
