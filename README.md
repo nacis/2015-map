@@ -7,5 +7,5 @@ Please add any points of interest to the `points.json` file as a new feature.
 **Embed** the map on your page with:
 
 ```HTML
-<iframe src="http://nacis.github.io/2015-map" frameborder="0" width="600" height="400">
+<iframe src="http://nacis.github.io/2015-map" frameborder="0" width="600" height="400"></iframe>
 ```
